@@ -1,6 +1,6 @@
-# 3.1.1 Bandwidth Hijacking (T1496.002)
+T1496.002 - Bandwidth Hijacking 
 
-| Campo | Valor |
+| Field | Value |
 |-------|-------|
 | **Táctica** | Impact |
 | **Técnica** | [Resource Hijacking (T1496)](https://attack.mitre.org/techniques/T1496/) |
