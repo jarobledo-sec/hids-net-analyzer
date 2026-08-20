@@ -1,4 +1,4 @@
-# T1496.002 — Bandwidth Hijacking
+# T1496.002 - Bandwidth Hijacking
 
 | Field | Details |
 |-------|---------|
