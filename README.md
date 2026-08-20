@@ -1,2 +1,2 @@
 # hids-net-analyzer
-Evaluating the detection capabilities of various security tools configured as HIDS against network-based attacks, mapped to MITRE ATT&amp;CK sub-techniques
+> **Benchmarking security tools configured as HIDS in their ability to detect network attacks classified by MITRE ATT&CK sub-techniques.**
